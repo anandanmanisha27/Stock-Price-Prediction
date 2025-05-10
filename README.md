@@ -10,7 +10,6 @@ The dataset used is a CSV file containing Tesla stock market data including:
 - Open, High, Low, Close, Adj Close prices
 - Volume
 
-> **Note:** Make sure the `Tesla.csv` file is correctly placed in your working directory.
 
 ## 🧠 Models Used
 
