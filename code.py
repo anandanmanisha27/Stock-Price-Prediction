@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Load dataset (Ensure the path is correct)
-df = pd.read_csv(r"C:\Users\kanna\Downloads\Tesla.csv")
+df = pd.read_csv("data.csv") # replace with correct path if needed
 
 # Display the first few rows
 print(df.head())
